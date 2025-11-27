@@ -50,4 +50,3 @@ Siriwan Nuanwan 663020585-6
 6. **Data Mining** – ขั้นตอนสกัดความรู้  
 7. **Pattern Evaluation** – ประเมินคุณค่าของรูปแบบ  
 8. **Knowledge** – ได้ผลลัพธ์เป็นองค์ความรู้  
-
